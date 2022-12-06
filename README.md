@@ -3,8 +3,15 @@ My first repository
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Sarah",
+  "lastName": "Geronimo",
+  "age": 34
+}
+```
+```
+{
+  "firstName": "Carol",
+  "lastName": "Banawa",
+  "age": 41
 }
 ```

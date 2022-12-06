@@ -39,3 +39,7 @@ My first repository
   "age": 42
 }
 ```
+
+**“We sing because we can’t speak anymore”**
+
+*Building on the theory that musicals are so successful because the music lets us communicate what cannot be said with language alone, broadway actress Kristen Chenoweth illustrates that music can go where other mediums of communication stop.*

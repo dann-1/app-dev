@@ -15,3 +15,27 @@ My first repository
   "age": 41
 }
 ```
+
+```
+{
+  "firstName": "Lady",
+  "lastName": "Gaga",
+  "age": 36
+}
+```
+
+```
+{
+  "firstName": "Rachel Ann",
+  "lastName": "Go",
+  "age": 36
+}
+```
+
+```
+{
+  "firstName": "Tootsie",
+  "lastName": "Guevera",
+  "age": 42
+}
+```
